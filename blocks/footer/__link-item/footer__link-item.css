@@ -1,6 +1,5 @@
 .footer__link-item {
   margin-right: 18px;
-  margin-bottom: 32px;
   transition: opacity .3s linear;
   opacity: 1;
 }
